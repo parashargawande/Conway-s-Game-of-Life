@@ -9,7 +9,7 @@ This is zero player fun game where you have to draw the pattern and the pattern 
 * Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
 ## Website
-https://parashargawande.github.io/game%20of%20life/index.html
+https://parashargawande.github.io/Conway-s-Game-of-Life/
 
 ## some interesting patterns
 
